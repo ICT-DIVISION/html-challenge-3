@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+
+<html>
+
+
+<head>
+		<title>Study with Kharezul</title>
+</head>
+<body>
+			<h1 align="center" id="#header"> Study with kharezul</h1>
+
+         <p align ="center"><img src="image/Logo.png">
+		<hr>
+		 
+		 <iframe width="350" height="250" src="https://www.youtube.com/embed/ZxD0D8h0K_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
+
+<iframe width="350" height="250" src="https://www.youtube.com/embed/9RrEThCiGrM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+	<p>HTML is the standard markup language for Web pages.</p>
+
+With HTML you can create your own Website.</p>
+
+This tutorial follows the latest HTML5 standard</p>
+
+<table border="1">
+		<caption>Student Information</caption>
+		
+		<thead>
+				<tr>
+				<th>ID</th>
+				<th>Name </th>
+				<th>CGPA</th>
+				</tr>
+		
+		</thead>
+		
+		<tbody>
+				<tr>
+				<td>101</td>
+				<td>Rakib</td>
+				<td>5.00</td>
+				
+				</tr>	
+				<tr>	
+				<td>102</td>
+				<td>Asif</td>
+				<td>4.00</td>
+				</tr>
+		</tbody>
+
+
+</table>
+<form>
+<datalist id="Names">
+
+		<option value="Kharezul islam">Kharezul Islam</option>
+		<option value="Ashraful islam">Kharezul Islam</option>
+		<option value="Moshiur islam">Kharezul Islam</option>
+		<option value="Sobuj islam">Kharezul Islam</option>
+
+</datalist>
+
+
+
+
+		<p> Username:<input type="text"list="Names" placeholder="Only letters and numbers" required pattern="[a-zA-Z0-9]+"</hr>
+		<p> Password:<input type="password" placeholder="Enter your password please" required"</hr>
+		<p> Email:<input type="email" placeholder="Only letters and numbers" required"
+</from>
+<p>
+          Religion:<input type="Cheackbox">Islam
+		           <input type="Cheackbox">Hindu
+</p>
+
+
+<p>
+          Gender:<input type="radio"name="gender">Male
+		           <input type="radio" name="gender">Female
+</p>
+
+
+<p>
+
+
+              Departdment:
+			  
+           <select>
+		
+			
+		
+			  <option>CSE</option>
+			  <option selected>EEE</option>
+			  <option>BBA</option>
+		      <option>LLB</option>
+			   
+		   </select>
+		   
+		   
+		   <p>
+		       feedback:<br>
+			   <textarea>
+			   
+			   
+			   </textarea>
+		      
+		   </p>
+
+			<input type="submit" value="Sign Up">
+			<input type="Reset" value="Clear">		
+
+          </p>
+		  <hr>
+		  <p>
+		     <video width="320" height="240" controls>
+			 <Source src="k.mp4" type="video/mp4">
+			 
+		     </video>
+		  
+	 
+		   <Audio width="320" height="240" controls>
+			 <Source src="ek.mp3" type="Audio/mp3">
+			 
+		     </Audio>
+		  </P>
+		  <ol>
+		  <li><a href="">My facebook page</a></li>
+		  <li><a href="https://www.studywithanis.com/">Website page</a></li>
+		  <li><a href=""id="#header">Go to google</a></li>
+		  
+		  </ol>
+		  
+		  <p>Development by<font color="red" size="5">&copy ;Kharezul islam</p>
+		  
+	
+</body>
+
+
+
+</html>
